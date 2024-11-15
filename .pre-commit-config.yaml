@@ -44,7 +44,7 @@ repos:
         description: "Run 'mypy' for Python linting"
         entry: mypy
         language: python
-        args: [--config-file, mypy.ini, --strict, --ignore-missing-imports, --cache-dir=/dev/null, applications/cm-optim-app/backend]
+        args: [--config-file, mypy.ini, --strict, --ignore-missing-imports, --cache-dir=/dev/null, app/repo1]
         require_serial: true
         # Add types package list
         additional_dependencies: []
