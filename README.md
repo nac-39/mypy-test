@@ -23,4 +23,4 @@
   $ git add .
   $ git commit -m "hogehoge"
   ```
-5. ここでrepo2にmypyが走ってしまう
+5. ここでrepo2にmypyが走ってしまう。本当はrepo1以外はチェックして欲しくないので、すんなりとコミットできて欲しい。
