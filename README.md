@@ -13,7 +13,7 @@
 1. uvのインストール ([公式サイト](https://docs.astral.sh/uv/#getting-started)）
 2. uvで環境構築をする
   ```bash
-  $ cd mypy-test
+  $ cd mypy-test/app/repo1
   $ uv sync
   $ uv run pre-commit install
   ```
